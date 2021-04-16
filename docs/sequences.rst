@@ -44,23 +44,32 @@ gatccatgctagccgttaaaatggcttctaactttactcagttcgttctcgtcgacaatggcggaactggcgacgtgact
 Sequence 3 (final plasmid, 8425bp):
 aaacccgctgatcctagagggccgcatcatgtaattagttatgtcacgcttacattcacgccctccccccacatccgctctaaccgaaaaggaaggagttagacaacctgaagtctaggtccctatttatttttttatagttatgttagtattaagaacgttatttatatttcaaatttttcttttttttctgtacagacgcgtgtacgcatgtaacattatactgaaaaccttgcttgagaaggttttgggacgctcgaaggctttaatttgagctcgaattcactggccgtcgttttacaacgtcgtgactgggaaaaccctggcgttacccaacttaatcgccttgcagcacatccccctttcgccagctggcgtaatagcgaagaggcccgcaccgatcgcccttcccaacagttgcgcagcctgaatggcgaatggcgcctgatgcggtattttctccttacgcatctgtgcggtatttcacaccgcataatcgctgggccattctcatgaagaatatcttgaatttattgtcatattactagttggtgtggaagtcctaatatcggtgatcaatatagtggttgacatgctggctagtcaacattgagccttttgatcatgcaaatatattacggtattttacaatcaaatatcaaacttaactattgactttataacttatttaggtggtaacattcttataaaaaagaaaaaaattactgcaaaacagtactagcttttaacttgtatcctaggttatctatgctgtctcaccatagagaatattacctatttcagaatgtatgtccatgattcgccgggtaaatacatataatacacaaatctggcttaataaagtctataatatatctcataaagaagtgctaaattggctagtgctatatatttttaagaaaatttcttttgactaagtccatatcgactttgtaaaagttcacattagcatacatatattacacgagccagaaatagtaacttttgcctaaatcacaaattgcaaaatttaattgcttgcaaaaggtcacatgcttataatcaacttttttaaaaatttaaaatacttttttattttttatttttaaacataaatgaaataatttatttattgtttatgattaccgaaacataaaacctgctcaagaaaaagaaactgttttgtccttggaaaaaaagcactacctaggagcggccaaaatgccgaggctttcatagcttaaactctttacagaaaataggcattatagatcagttcgagttttcttattcttccttccggttttatcgtcacagttttacagtaaataagtatcacctcttagagttcgatgataagctgtcaaacatgagaattaattccacatgttaaaatagtgaaggagcatgttcggcacacagtggaccgaacgtggggtaagtgcactagggtccggttaaacggatctcgcattgatgaggcaacgctaattatcaacatatagattgttatctatctgcatgaacacgaaatctttacttgacgacttgaggctgatggtgtttatgcaaagaaaccactgtgtttaatatgtgtcactgtttgatattactgtcagcgtagaagataatagtaaaagcggttaataagtgtatttgagataagtgtgataaagtttttacagcgaaaagacgataaatacaagaaaatgattacgaggatacggagagaggtatgtacatgtgtatttatatactaagctgccggcggttgtttgcaagaccgagaaaaggctagcaagaatcgggtcattgtagcgtatgcgcctgtgaacattctcttcaacaagtttgattccattgcggtgaaatggtaaaagtcaaccccctgcgatgtatattttcctgtacaatcaatcaaaaagccaaatgatttagcattatctttacatcttgttattttacagattttatgtttagatcttttatgcttgcttttcaaaaggcttgcaggcaagtgcacaaacaatacttaaataaatactactcagtaataacctatttcttagcatttttgacgaaatttgctattttgttagagtcttttacaccatttgtctccacacctccgcttacatcaacaccaataacgccatttaatctaagcgcatcaccaacattttctggcgtcagtccaccagctaacataaaatgtaagctctcggggctctcttgccttccaacccagtcagaaatcgagttccaatccaaaagttcacctgtcccacctgcttctgaatcaaacaagggaataaacgaatgaggtttctgtgaagctgcactgagtagtatgttgcagtcttttggaaatacgagtcttttaataactggcaaaccgaggaactcttggtattcttgccacgactcatctccatgcagttggacgatcgatgataagctgtcaaacatgagaattaattctaccctatgaacatattccattttgtaatttcgtgtcgtttctattatgaatttcatttataaagtttatgtacaaatatcataaaaaaagagaatctttttaagcaaggattttcttaacttcttcggcgacagcatcaccgacttcggtggtactgttggaaccacctaaatcaccagttctgatacctgcatccaaaacctttttaactgcatcttcaatggccttaccttcttcaggcaagttcaatgacaatttcaacatcattgcagcagacaagatagtggcgatagggttgaccttattctttggcaaatctggagcagaaccgtggcatggttcgtacaaaccaaatgcggtgttcttgtctggcaaagaggccaaggacgcagatggcaacaaacccaaggaacctgggataacggaggcttcatcggagatgatatcaccaaacatgttgctggtgattataataccatttaggtgggttgggttcttaactaggatcatggcggcagaatcaatcaattgatgttgaaccttcaatgtaggaaattcgttcttgatggtttcctccacagtttttctccataatcttgaagaggccaaaacattagctttatccaaggaccaaataggcaatggtggctcatgttgtagggccatgaaagcggccattcttgtgattctttgcacttctggaacggtgtattgttcactatcccaagcgacaccatcaccatcgtcttcctttctcttaccaaagtaaatacctcccactaattctctgacaacaacgaagtcagtacctttagcaaattgtggcttgattggagataagtctaaaagagagtcggatgcaaagttacatggtcttaagttggcgtacaattgaagttctttacggatttttagtaaaccttgttcaggtctaacactacctgtaccccatttaggaccacccacagcacctaacaaaacggcatcagccttcttggaggcttccagcgcctcatctggaagtggaacacctgtagcatcgatagcagcaccaccaattaaatgattttcgaaatcgaacttgacattggaacgaacatcagaaatagctttaagaaccttaatggcttcggctgtgatttcttgaccaacgtggtcacctggcaaaacgacgatcttcttaggggcagacattagaatggtatatccttgaaatatatatatatattgctgaaatgtaaaaggtaagaaaagttagaaagtaagacgattgctaaccacctattggaaaaaacaataggtccttaaataatattgtcaacttcaagtattgtgatgcaagcatttagtcatgaacgcttctctattctatatgaaaagccggttccggcgctctcacctttcctttttctcccaatttttcagttgaaaaaggtatatgcgtcaggcgacctctgaaattaacaaaaaatttccagtcatcgaatttgattctgtgcgatagcgcccctgtgtgttctcgttatgttgaggaaaaaaataatggttgctaagagattcgaactcttgcatcttacgatacctgagtattcccacagttaattcttgaagacgaaagggcctcgtgatacgcctatttttataggttaatgtcatgataataatggtttcttagacgtcaggtggcacttttcggggaaatgtgcgcggaacccctatttgtttatttttctaaatacattcaaatatgtatccgctcatgagacaataaccctgataaatgcttcaataatattgaaaaaggaagagtatgagtattcaacatttccgtgtcgcccttattcccttttttgcggcattttgccttcctgtttttgctcacccagaaacgctggtgaaagtaaaagatgctgaagatcagttgggtgcacgagtgggttacatcgaactggatctcaacagcggtaagatccttgagagttttcgccccgaagaacgttttccaatgatgagcacttttaaagttctgctatgtggcgcggtattatcccgtattgacgccgggcaagagcaactcggtcgccgcatacactattctcagaatgacttggttgagtactcaccagtcacagaaaagcatcttacggatggcatgacagtaagagaattatgcagtgctgccataaccatgagtgataacactgcggccaacttacttctgacaacgatcggaggaccgaaggagctaaccgcttttttgcacaacatgggggatcatgtaactcgccttgatcgttgggaaccggagctgaatgaagccataccaaacgacgagcgtgacaccacgatgcctgtagcaatggcaacaacgttgcgcaaactattaactggcgaactacttactctagcttcccggcaacaattaatagactggatggaggcggataaagttgcaggaccacttctgcgctcggcccttccggctggctggtttattgctgataaatctggagccggtgagcgtgggtctcgcggtatcattgcagcactggggccagatggtaagccctcccgtatcgtagttatctacacgacggggagtcaggcaactatggatgaacgaaatagacagatcgctgagataggtgcctcactgattaagcattggtaactgtcagaccaagtttactcatatatactttagattgatttaaaacttcatttttaatttaaaaggatctaggtgaagatcctttttgataatctcatgaccaaaatcccttaacgtgagttttcgttccactgagcgtcagaccccgtagaaaagatcaaaggatcttcttgagatcctttttttctgcgcgtaatctgctgcttgcaaacaaaaaaaccaccgctaccagcggtggtttgtttgccggatcaagagctaccaactctttttccgaaggtaactggcttcagcagagcgcagataccaaatactgttcttctagtgtagccgtagttaggccaccacttcaagaactctgtagcaccgcctacatacctcgctctgctaatcctgttaccagtggctgctgccagtggcgataagtcgtgtcttaccgggttggactcaagacgatagttaccggataaggcgcagcggtcgggctgaacggggggttcgtgcacacagcccagcttggagcgaacgacctacaccgaactgagatacctacagcgtgagctatgagaaagcgccacgcttcccgaagggagaaaggcggacaggtatccggtaagcggcagggtcggaacaggagagcgcacgagggagcttccagggggaaacgcctggtatctttatagtcctgtcgggtttcgccacctctgacttgagcgtcgatttttgtgatgctcgtcaggggggcggagcctatggaaaaacgccagcaacgcggcctttttacggttcctggccttttgctggccttttgctcacatgttctttcctgcgttatcccctgattctgtggataaccgtattaccgcctttgagtgagctgataccgctcgccgcagccgaacgaccgagcgcagcgagtcagtgagcgaggaagcggaagagcgcccaatacgcaaaccgcctctccccgcgcgttggccgattcattaatgcagctggcacgacaggtttcccgactggaaagcgggcagtgagcgcaacgcaattaatgtgagttagctcactcattaggcaccccaggctttacactttatgcttccggctcgtatgttgtgtggaattgtgagcggataacaatttcacacaggaaacagctatgaccatgattacgccaagcttgcatgcctgcagggagcgttggttggtggatcaagcccacgcgtaggcaatcctcgaggcagagcgcacatcgcccacagtccccgagaagttggggggaggggtcggcaattgaacgggtgcctagagaaggtggcgcggggtaaactgggaaagtgatgtcgtgtactggctccgcctttttcccgagggtgggggagaaccgtatataagtgcagtagtcgccgtgaacgttctttttcgcaacgggtttgccgccagaacacagggatccatgctagccgttaaaatggcttctaactttactcagttcgttctcgtcgacaatggcggaactggcgacgtgactgtcgccccaagcaacttcgctaacgggatcgctgaatggatcagctctaactcgcgttcacaggcttacaaagtaacctgtagcgttcgtcagagctctgcgcagaatcgcaaatacaccatcaaagtcgaggtgcctaaaggcgcctggcgttcgtacttaaatatggaactaaccattccaattttcgccacgaattccgactgcgagcttattgttaaggcaatgcaaggtctcctaaaagatggaaacccgattccctcagcaatcgcagcaaactccggcatctacccaaaaaaaaaaagaaaagttaccggtgtgagcaagggcgaggaggataacatggcctctctcccagcgacacatgagttacacatctttggctccatcaacggtgtggactttgacatggtgggtcagggcaccggcaatccaaatgatggttatgaggagttaaacctgaagtccaccaagggtgacctccagttctccccctggattctggtccctcatatcgggtatggcttccatcagtacctgccctaccctgacgggatgtcgcctttccaggccgccatggtagatggctccggataccaagtccatcgcacaatgcagtttgaagatggtgcctcccttactgttaactaccgctacacctacgagggaagccacatcaaaggagaggcccaggtgaaggggactggtttccctgctgacggtcctgtgatgaccaactcgctgaccgctgcggactggtgcaggtcgaagaagacttaccccaacgacaaaaccatcatcagtacctttaagtggagttacaccactggaaatggcaagcgctaccggagcactgcgcggaccacctacacctttgccaagccaatggcggctaactatctgaagaaccagccgatgtacgtgttccgtaagacggagctcaagcactccaagaccgagctcaacttcaaggagtggcaaaaggcctttaccgatgtgatgggcatggacgagctgtacaaggcggccgccgtgagcaagggcgaggaggataacatggcctctctcccagcgacacatgagttacacatctttggctccatcaacggtgtggactttgacatggtgggtcagggcaccggcaatccaaatgatggttatgaggagttaaacctgaagtccaccaagggtgacctccagttctccccctggattctggtccctcatatcgggtatggcttccatcagtacctgccctaccctgacgggatgtcgcctttccaggccgccatggtagatggctccggataccaagtccatcgcacaatgcagtttgaagatggtgcctcccttactgttaactaccgctacacctacgagggaagccacatcaaaggagaggcccaggtgaaggggactggtttccctgctgacggtcctgtgatgaccaactcgctgaccgctgcggactggtgcaggtcgaagaagacttaccccaacgacaaaaccatcatcagtacctttaagtggagttacaccactggaaatggcaagcgctaccggagcactgcgcggaccacctacacctttgccaagccaatggcggctaactatctgaagaaccagccgatgtacgtgttccgtaagacggagctcaagcactccaagaccgagctcaacttcaaggagtggcaaaaggcctttaccgatgtgatgggcatggacgagctgtacaagtaagttt
 
-Cutting backbone but not final: BalI TGG'CCA 2 2 BalI
-FauNDI CA'TA_TG 2 2 FauNDI
-HauII TGGCCAnnnnnnnnn_nn' 2 2 HauII
-MlsI TGG'CCA 2 2 MlsI
-MluNI TGG'CCA 2 2 MluNI
-Mox20I TGG'CCA 2 2 Mox20I
-MscI TGG'CCA 2 2 MscI
-Msp20I TGG'CCA 2 2 Msp20I
-NdeI CA'TA_TG 2 2 NdeI
-XbaI T'CTAG_A 2 2 XbaI
 
+Enzymes found by preselector: 
+================================= =================
+Condition                         Number of enzymes
+================================= =================
+Cut sequence 1 but not sequence 3 10
+Cut sequence 1                    612
+Cut sequence 3                    630
+Cut not sequence 1                136
+Cut not sequence 3                118
+================================= =================
 
-# 1 not 3: 10 / 748
-# 1: 612
-# 3: 630
-# not 1: 136
-# not 3: 118
+Enzymes cutting recipient but not final:
+====== ===================
+Enzyme Sequence
+====== ===================
+FauNDI CA'TA_TG
+HauII  TGGCCAnnnnnnnnn_nn'
+MlsI   TGG'CCA
+MluNI  TGG'CCA
+Mox20I TGG'CCA
+MscI   TGG'CCA
+Msp20I TGG'CCA
+NdeI   CA'TA_TG
+XbaI   T'CTAG_A
+====== ===================
  
 Example 3
 ^^^^^^^^^
@@ -69,15 +78,15 @@ Sequence 1 (recipient, 9068 bp):
 Sequence 3 (recipient, 9062 bp):
 
 Enzymes found by preselector: 
-=================================	=================
-Condition      			Number of enzymes
-=================================	=================
+================================= =================
+Condition                         Number of enzymes
+================================= =================
 Cut sequence 1 but not sequence 3 3
-Cut sequence 1			672
-Cut sequence 3			669
-Cut not sequence 1		76
-Cut not sequence 3		79
-=================================	=================
+Cut sequence 1                    672
+Cut sequence 3                    669
+Cut not sequence 1                76
+Cut not sequence 3                79
+================================= =================
 
 Enzymes cutting recipient but not final:
 ====== ============
