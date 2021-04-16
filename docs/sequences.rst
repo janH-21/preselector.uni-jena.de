@@ -4,6 +4,11 @@ Example sequences
 Example 1
 ^^^^^^^^^
 
+.. raw:: html
+
+   <details>
+   <summary><a>big code</a></summary>
+
 Sequence 1 (backbone, 10634 bp):
 
 Sequence 2 (insert, 1954 bp):
