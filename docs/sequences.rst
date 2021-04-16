@@ -10,6 +10,7 @@ Sequence 2 (insert, 1954 bp):
 Sequence 3 (final plasmid, 12352 bp):
 
 Enzymes found by preselector: 
+
 ================================= =================
 Condition                         Number of enzymes
 ================================= =================
@@ -46,6 +47,7 @@ aaacccgctgatcctagagggccgcatcatgtaattagttatgtcacgcttacattcacgccctccccccacatccgctc
 
 
 Enzymes found by preselector: 
+
 ================================= =================
 Condition                         Number of enzymes
 ================================= =================
@@ -57,6 +59,7 @@ Cut not sequence 3                118
 ================================= =================
 
 Enzymes cutting recipient but not final:
+
 ====== ===================
 Enzyme Sequence
 ====== ===================
@@ -78,6 +81,7 @@ Sequence 1 (recipient, 9068 bp):
 Sequence 3 (recipient, 9062 bp):
 
 Enzymes found by preselector: 
+
 ================================= =================
 Condition                         Number of enzymes
 ================================= =================
@@ -89,6 +93,7 @@ Cut not sequence 3                79
 ================================= =================
 
 Enzymes cutting recipient but not final:
+
 ====== ============
 Enzyme Sequence
 ====== ============
