@@ -16,7 +16,6 @@ preselector.uni-jena.de identifies fitting restriction enzymes for preselection 
 
    quickguide
    examples
-   sequences
    about
    
 preselector.uni-jena.de has been developed in the Mrowka Lab.
