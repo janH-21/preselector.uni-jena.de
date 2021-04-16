@@ -15,7 +15,7 @@ We cut out the insert from the donor plasmid with the restriction enzymes NotI a
 .. raw:: html
 
    <details>
-   <summary><a>Sequence 1 (backbone, 10634 bp)</a></summary>
+   <summary><a>Sequence 1 (recipient, 10634 bp)</a></summary>
 
 .. code-block:: none
 
@@ -97,7 +97,7 @@ Here, we cannot rely on the multiple cloning site (MCS), since the restriction e
 .. raw:: html
 
    <details>
-   <summary><a>Sequence 1 (backbone, 8437bp)</a></summary>
+   <summary><a>Sequence 1 (recipient, 8437bp)</a></summary>
 
 .. code-block:: none
 
