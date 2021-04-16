@@ -55,7 +55,7 @@ We cut out the insert from the donor plasmid with the restriction enzymes NotI a
    </details>
 
 
-
+ 
 **Enzymes found by preselector:**
 
 ================================= =================
@@ -122,7 +122,7 @@ Here, we cannot rely on the multiple cloning site (MCS), since the restriction e
    </details>
 
 
-
+ 
 **Enzymes found by preselector:**
 
 ================================= =================
@@ -192,7 +192,7 @@ It is not hard to imagine a slightly different scenario, in which, depending on 
    </details>
 
 
-
+ 
 **Enzymes found by preselector:**
 
 ================================= =================
