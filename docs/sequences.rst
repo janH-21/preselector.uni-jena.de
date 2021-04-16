@@ -4,22 +4,24 @@ Example sequences
 Example 1
 ^^^^^^^^^
 Sequence 1 (backbone, 10634 bp):
+
 Sequence 2 (insert, 1954 bp):
+
 Sequence 3 (final plasmid, 12352 bp):
 
 Enzymes found by preselector: 
-=================================	=================
-Condition      			Number of enzymes
-=================================	=================
+================================= =================
+Condition                         Number of enzymes
+================================= =================
 Cut sequence 1 but not sequence 3 4
-Cut sequence 2 but not sequence 3	0
-Cut sequence 1			662
-Cut sequence 2			542
-Cut sequence 3			696
-Cut not sequence 1		886
-Cut not sequence 2		206
-Cut not sequence 3		52
-=================================	=================
+Cut sequence 2 but not sequence 3 0
+Cut sequence 1                    662
+Cut sequence 2                    542
+Cut sequence 3                    696
+Cut not sequence 1                886
+Cut not sequence 2                206
+Cut not sequence 3                52
+================================= =================
 
 Enzymes cutting recipient but not final:
 
@@ -63,15 +65,25 @@ XbaI T'CTAG_A 2 2 XbaI
 Example 3
 ^^^^^^^^^
 Sequence 1 (recipient, 9068 bp):
+
 Sequence 3 (recipient, 9062 bp):
 
-# 1 not 3: 3 / 748
-# 1: 672
-# 3: 669
-# not 1: 76
-# not 3: 79
+Enzymes found by preselector: 
+=================================	=================
+Condition      			Number of enzymes
+=================================	=================
+Cut sequence 1 but not sequence 3 3
+Cut sequence 1			672
+Cut sequence 3			669
+Cut not sequence 1		76
+Cut not sequence 3		79
+=================================	=================
 
-1 but not 3:
-BsmBI CGTCTCn'nnnn_ 1 1 BsmBI
-Esp3I CGTCTCn'nnnn_ 1 1 Esp3I
-PacI TTA_AT'TAA 1 1 PacI
+Enzymes cutting recipient but not final:
+====== ============
+Enzyme Sequence
+====== ============
+BsmBI  CGTCTCn'nnnn
+Esp3I  CGTCTCn'nnnn
+PacI   TTA_AT'TAA
+====== ============
