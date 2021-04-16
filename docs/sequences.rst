@@ -7,9 +7,10 @@ Sequence 1 (backbone, 10634 bp):
 Sequence 2 (insert, 1954 bp):
 Sequence 3 (final plasmid, 12352 bp):
 
-=================================	======================================
-Condition      			Number of enzymes found by preselector
-=================================	======================================
+Enzymes found by preselector: 
+=================================	=================
+Condition      			Number of enzymes
+=================================	=================
 Cut sequence 1 but not sequence 3 4
 Cut sequence 2 but not sequence 3	0
 Cut sequence 1			662
@@ -18,22 +19,19 @@ Cut sequence 3			696
 Cut not sequence 1		886
 Cut not sequence 2		206
 Cut not sequence 3		52
-=================================	======================================
+=================================	=================
 
-# 1 not 3: 4
-# 1 not 2: 0
-# 1: 662
-# 2: 542
-# 3: 696
-# not 1: 86
-# not 2: 206
-# not 3: 52
+Enzymes cutting recipient but not final:
 
-Cutting backbone but not final:
-FseI GG_CCGG'CC 1 1 FseI
-HpaI GTT'AAC 1 1 HpaI
-KspAI GTT'AAC 1 1 KspAI
-RigI GG_CCGG'CC 1 1 RigI
+====== ============
+Enzyme Sequence
+====== ============
+FseI   GG_CCGG'CC
+HpaI   GTT'AAC
+KspAI  GTT'AAC
+RigI   GG_CCGG'CC
+====== ============
+
 
 Example 2
 ^^^^^^^^^
