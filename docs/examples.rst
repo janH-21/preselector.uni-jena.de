@@ -55,6 +55,7 @@ We cut out the insert from the donor plasmid with the restriction enzymes NotI a
    </details>
 
 
+
 **Enzymes found by preselector:**
 
 ================================= =================
@@ -110,7 +111,7 @@ Here, we cannot rely on the multiple cloning site (MCS), since the restriction e
 .. raw:: html
 
    <details>
-   <summary><aSequence 3 (final plasmid, 8425bp)></a></summary>
+   <summary><a>Sequence 3 (final plasmid, 8425bp)</a></summary>
 
 .. code-block:: none
 
@@ -119,6 +120,7 @@ Here, we cannot rely on the multiple cloning site (MCS), since the restriction e
 .. raw:: html
 
    </details>
+
 
 
 **Enzymes found by preselector:**
@@ -188,6 +190,7 @@ It is not hard to imagine a slightly different scenario, in which, depending on 
 .. raw:: html
 
    </details>
+
 
 
 **Enzymes found by preselector:**
