@@ -11,8 +11,8 @@ We cut out the insert from the donor plasmid with the restriction enzymes NotI a
   :width: 800
   :alt: example 1
 
-|
-|** Sequences: **
+Sequences:
+""""""""""
 
 .. raw:: html
 
@@ -56,9 +56,9 @@ We cut out the insert from the donor plasmid with the restriction enzymes NotI a
 
    </details>
 
-|
-|**Enzymes found by preselector:**
 
+Enzymes found by preselector:
+"""""""""""""""""""""""""""""
 ================================= =================
 Condition                         Number of enzymes
 ================================= =================
@@ -72,8 +72,9 @@ Cut not sequence 2                206
 Cut not sequence 3                52
 ================================= =================
 
-|
-|**Enzymes cutting recipient but not final:**
+
+Enzymes cutting recipient but not final:
+""""""""""""""""""""""""""""""""""""""""
 
 ====== ============
 Enzyme Sequence
@@ -96,7 +97,7 @@ Here, we cannot rely on the multiple cloning site (MCS), since the restriction e
   :alt: example 2
 
 |
-|** Sequences: **
+** Sequences: **
 
 .. raw:: html
 
